@@ -1,4 +1,5 @@
 
+![title page illustration](visual-references/1visualBibleGemini_Generated_Image_fmvf4gfmvf4gfmvf-2.jpg)
 
 # Sammy and the Brainrot Paradox
 
@@ -30,7 +31,7 @@ And that was exactly what he wanted to test.
 
 ---
 
-
+![illustration](illustrations/Gemini_Generated_Image_381qr4381qr4381q-2.jpg)
 
 Sammy opened his laptop and stared at the blank development screen.
 
@@ -108,7 +109,7 @@ Sammy smiled.
 
 ---
 
-
+![illustration](illustrations/Gemini_Generated_Image_6ng90m6ng90m6ng9-2.jpg)
 
 ## The First Brainrots
 
@@ -158,7 +159,7 @@ Within seconds a dozen players were sprinting toward the same glowing object.
 
 ---
 
-
+![illustration](illustrations/Gemini_Generated_Image_n5kck6n5kck6n5kc-2.jpg)
 
 ## The Chase
 
@@ -240,7 +241,7 @@ But one thing was certain.
 
 Players loved it.
 
-
+![illustration](illustrations/Gemini_Generated_Image_etzysbetzysbetzy-2.jpg)
 
 ---
 
@@ -298,7 +299,7 @@ a player named **Dex** was about to discover it.
 
 ---
 
-
+![illustration](illustrations/Gemini_Generated_Image_gbihjpgbihjpgbih-2.jpg)
 
 # Chapter 2 — When the Game Escaped the Screen
 
@@ -372,7 +373,7 @@ Dex’s grin widened.
 
 ---
 
-
+![illustration](illustrations/Gemini_Generated_Image_ccw7nfccw7nfccw7-2.jpg)
 
 ## The Grab
 
@@ -418,7 +419,7 @@ Dex laughed.
 
 ---
 
-
+![illustration](illustrations/Gemini_Generated_Image_pft02ipft02ipft0-2.jpg)
 
 ## Sammy Notices
 
@@ -458,7 +459,7 @@ Sammy froze.
 
 ---
 
-
+![illustration](illustrations/Gemini_Generated_Image_oawgfdoawgfdoawg-2.jpg)
 
 ## Mira Arrives
 
@@ -497,7 +498,7 @@ Then she leaned even closer.
 
 ---
 
-
+![illustration](illustrations/Gemini_Generated_Image_kpdyjikpdyjikpdy-2.jpg)
 
 ## Dex’s Strategy
 
@@ -573,7 +574,7 @@ Sammy exhaled slowly.
 
 ---
 
-
+![illustration](illustrations/Gemini_Generated_Image_4jjur04jjur04jju-2.jpg)
 
 ## The First Glitches
 
@@ -687,7 +688,7 @@ Sammy took a breath.
 
 ---
 
-
+![illustration](illustrations/Gemini_Generated_Image_hbajmshbajmshbaj-2.jpg)
 
 # Chapter 3 — The Founder Brainrot
 
@@ -787,7 +788,7 @@ Dex grinned.
 
 “This might be the best item in the entire game.”
 
-
+![illustration](illustrations/Gemini_Generated_Image_m4fzxgm4fzxgm4fz-2.jpg)
 
 ---
 
@@ -873,7 +874,7 @@ Mira nodded.
 
 “That’s exactly what the rule rewards.”
 
-
+![illustration](illustrations/Gemini_Generated_Image_y2ncicy2ncicy2nc-2.jpg)
 
 ---
 
@@ -919,7 +920,7 @@ Sammy exhaled slowly.
 
 ---
 
-
+![illustration](illustrations/Gemini_Generated_Image_u8v54ru8v54ru8v5-2.jpg)
 
 ## The Sky Breaks
 
@@ -1049,7 +1050,7 @@ Then he began typing.
 
 ---
 
-
+![illustration](illustrations/Gemini_Generated_Image_aqwxrpaqwxrpaqwx-2.jpg)
 
 # Chapter 4 — The Rule That Changed Everything
 
@@ -1123,7 +1124,7 @@ Sammy didn’t answer.
 
 Because Dex was right.
 
-
+![illustration](illustrations/Gemini_Generated_Image_j3opajj3opajj3op-2.jpg)
 
 ---
 
@@ -1334,7 +1335,7 @@ Sammy smiled.
 
 “The system found a new equilibrium.”
 
-
+![illustration](illustrations/Gemini_Generated_Image_wmmw7uwmmw7uwmmw-2.jpg)
 
 ---
 
@@ -1396,6 +1397,6 @@ Then he smiled.
 
 “That’s all a system ever really needs.”
 
-
+![illustration](illustrations/Gemini_Generated_Image_p9092wp9092wp909-2.jpg)
 
 ---
