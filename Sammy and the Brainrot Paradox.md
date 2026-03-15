@@ -1051,13 +1051,7 @@ The line of code glowed softly on the screen.
 
 **Amplify brainrot power when contested.**
 
-That rule had created the entire game.
-
-Players chasing each other.
-
-Players stealing powers.
-
-Players racing to collect brainrots faster than anyone else.
+The rule that had started everything still glowed on the screen.
 
 And now that same rule was tearing the system apart.
 
