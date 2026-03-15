@@ -1369,7 +1369,7 @@ Mira leaned closer.
 
 Sammy read the description.
 
-**Understands systems. Predicts patterns.**
+**Understands systems. Predicts patterns. Rewards players who learn how rules shape the world.**
 
 Mira smiled.
 
