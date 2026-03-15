@@ -554,15 +554,7 @@ A second curve was climbing sharply.
 
 Mira nodded.
 
-“Competition makes brainrots stronger.”
-
-“Stronger brainrots attract more players.”
-
-“More players create more competition.”
-
-Sammy finished the cycle.
-
-“And the loop keeps amplifying itself.”
+“The same loop you discovered earlier,” she said.
 
 Mira smiled slightly.
 
