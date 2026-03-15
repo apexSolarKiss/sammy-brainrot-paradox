@@ -813,6 +813,8 @@ Mira tapped the screen.
 
 Sammy leaned back.
 
+The graphs flickered strangely for a moment, almost as if the game were watching its own behavior.
+
 “You mean the feedback loop.”
 
 Mira nodded.
