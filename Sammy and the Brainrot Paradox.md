@@ -899,7 +899,7 @@ Sammy blinked.
 
 “The what?”
 
-“In game theory,” Mira said, “an equilibrium is the behavior players settle into when the rules push everyone toward the same strategy.”
+“That’s equilibrium,” Mira said. “The strategy the rules push everyone toward.”
 
 She pointed toward Dex.
 
