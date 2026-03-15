@@ -852,11 +852,7 @@ Sammy glanced over.
 
 “Explain.”
 
-“In game theory,” Mira said, “players search for the best strategy given the rules of a system.”
-
-She pointed at Dex.
-
-“He figured out the winning strategy.”
+“Dex found the strongest strategy the rules allow,” Mira said.
 
 Sammy looked at the glowing crown above Dex.
 
