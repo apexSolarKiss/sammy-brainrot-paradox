@@ -766,8 +766,9 @@ Mira shook her head.
 
 Sammy frowned.
 
-“It’s not just another brainrot,” he said slowly.
-“It’s the prototype object that copies the rules the other brainrots use.”
+“It’s not just another brainrot,” he said slowly. “It’s the prototype object that copies the rules the other brainrots use.
+
+That means every new brainrot Dex collects becomes part of the Founder Brainrot’s system.”
 
 Dex grabbed another brainrot.
 
