@@ -1128,9 +1128,7 @@ Sammy nodded.
 
 Dex wasn’t cheating.
 
-He wasn’t breaking the rules.
-
-He had simply discovered the **strongest strategy allowed by the system**.
+He had simply discovered the **strongest strategy the rules allowed**.
 
 Sammy stared at the glowing Founder Brainrot.
 
