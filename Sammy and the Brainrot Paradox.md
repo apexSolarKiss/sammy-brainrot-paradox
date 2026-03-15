@@ -588,6 +588,8 @@ Small glitches are easy to dismiss.
 
 But Sammy noticed.
 
+It was as if the feedback loop inside the game was echoing into the real world.
+
 Because his console suddenly flashed a warning.
 
 **Boundary instability detected**
