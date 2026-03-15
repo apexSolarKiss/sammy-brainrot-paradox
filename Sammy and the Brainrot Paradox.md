@@ -766,7 +766,8 @@ Mira shook her head.
 
 Sammy frowned.
 
-“It’s not just another brainrot,” he said slowly. It’s the prototype object that controls how the others behave.”
+“It’s not just another brainrot,” he said slowly.
+“It’s the prototype object that copies the rules the other brainrots use.”
 
 Dex grabbed another brainrot.
 
