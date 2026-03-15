@@ -455,7 +455,7 @@ Sammy froze.
 
 “Uh oh.”
 
-“That’s my original test object,” Sammy said quietly. The very first brainrot I built to study how players interact with the system.”
+“That’s my original test object,” Sammy said quietly. “The very first brainrot I built to study how players interact with the system.”
 
 ---
 
