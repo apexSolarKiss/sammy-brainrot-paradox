@@ -1,4 +1,4 @@
-# Illustration Bible
+# Visual Style Guide
 ## Sammy and the Brainrot Paradox
 
 This document defines the canonical visual rules for illustrations in *Sammy and the Brainrot Paradox*.  
@@ -87,15 +87,28 @@ Dex represents exploration and optimization inside the game.
 
 # Brainrot Visual Design
 
-Brainrots are floating digital artifacts that grant abilities.
+Brainrots are collectible digital artifacts that grant players special powers.
 
 They should appear slightly above the ground and emit glow effects.
 
 Each brainrot must maintain a consistent appearance across all illustrations.
 
+Visual hierarchy:
+
+More powerful brainrots should appear visually more complex, brighter, or larger than common brainrots.
+
+Scale rule:
+
+Brainrots should appear roughly the size of a soccer ball when floating in the game world.
+
+Color hierarchy:
+
+Each brainrot should have a dominant color that clearly distinguishes it:
+blue (speed), purple (echo), green (lag), gold (golden), silver (founder), white (observer).
+
 ---
 
-## Speed Brainrot
+## *Velocino Fulminino* — the “speed” brainrot
 
 Appearance:
 
@@ -107,7 +120,7 @@ Represents extreme movement speed.
 
 ---
 
-## Echo Brainrot
+## *Eccorino Ripetello* — “echo” brainrot
 
 Appearance:
 
@@ -119,7 +132,7 @@ Represents repeated actions.
 
 ---
 
-## Lag Brainrot
+## *Ritardello Staccato* — “lag” brainrot
 
 Appearance:
 
@@ -131,7 +144,7 @@ Represents brief freezing or delay effects.
 
 ---
 
-## Golden Brainrot
+## *Doratino Amplifino* — “golden” brainrot
 
 Appearance:
 
@@ -143,7 +156,7 @@ Amplifies other abilities.
 
 ---
 
-## Founder Brainrot
+## *Fondarino Originello* — “founder” brainrot
 
 Appearance:
 
@@ -155,13 +168,13 @@ This brainrot should visually feel more complex and important than the others.
 
 ---
 
-## Observer Brainrot
+## *Osservino Sistemino* — “observer” brainrot
 
 Appearance:
 
 Calm white orb with soft glowing patterns.
 
-It represents understanding rather than power.
+It represents understanding rather than raw power.
 
 The glow should feel stable and balanced.
 
@@ -196,6 +209,13 @@ Each image should clearly show:
 Avoid overly crowded compositions.
 
 The main action should always be visually clear.
+
+Camera style:
+
+Illustrations should resemble screenshots from a 3D game camera.
+Avoid cinematic film lighting or dramatic painterly perspectives.
+
+
 
 ---
 
