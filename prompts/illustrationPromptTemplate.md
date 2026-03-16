@@ -4,9 +4,9 @@ simple glossy surfaces, stylized roblox avatar proportions,
 game-engine lighting with glowing particle effects
 
 Use the attached reference images:
-1/ Visual Bible
-2/ Character Lineup Sheet
-3/ Brainrot Reference Sheet
+1/ Visual Style Guide
+2/ Brainrot Reference Sheet
+3/ Character Lineup Sheet
 
 scene:
 [describe the moment from the story]

@@ -1,5 +1,5 @@
 
-![title page illustration](visual-references/1visualBibleGemini_Generated_Image_fmvf4gfmvf4gfmvf-2.jpg)
+![title page illustration](visual-references/1visualStyleGuideGemini_Generated_Image_fmvf4gfmvf4gfmvf-2.jpg)
 
 # Sammy and the Brainrot Paradox
 
