@@ -60,11 +60,11 @@ Echo.
 
 Lag.
 
-Magnet.
-
-Mirror.
-
 Golden.
+
+Founder.
+
+Observer.
 
 Each brainrot would change the rules of the world around the player who held it.
 
@@ -114,7 +114,7 @@ Sammy smiled.
 
 ## The First Brainrots
 
-The first brainrot Sammy created was **Speed Brainrot**.
+The first brainrot Sammy created was *Velocino Fulminino*, the “speed” brainrot.
 
 It looked like a glowing blue orb with lightning streaks spinning around it.
 
@@ -122,7 +122,7 @@ When a player grabbed it, their character moved faster.
 
 Much faster.
 
-The second was **Echo Brainrot**.
+The second was *Eccorino Ripetello*, the “echo” brainrot.
 
 It shimmered purple and caused actions to repeat themselves.
 
@@ -130,7 +130,7 @@ Jump once…
 
 and the jump echoed again.
 
-The third was **Lag Brainrot**.
+The third was *Ritardello Staccato*, the “lag” brainrot.
 
 A bright green cube that made nearby players stutter and freeze for a moment.
 
@@ -148,7 +148,7 @@ They explored rooftops and parks.
 
 They experimented with the strange new brainrots.
 
-But then someone noticed the Speed Brainrot hovering above the fountain.
+But then someone noticed the *Velocino Fulminino* hovering above the fountain.
 
 One player ran toward it.
 
@@ -164,7 +164,7 @@ Within seconds a dozen players were sprinting toward the same glowing object.
 
 ## The Chase
 
-The first player grabbed the Speed Brainrot.
+The first player grabbed the *Velocino Fulminino*.
 
 Their character shot across the plaza like a rocket.
 
@@ -362,9 +362,7 @@ A shifting silver crown made of interlocking geometric shapes.
 
 Light bent around it like ripples in water.
 
-The label beneath it read:
-
-**FOUNDER BRAINROT**
+The label beneath it read **FONDARINO ORIGINELLO**, the “founder” brainrot.
 
 Dex’s grin widened.
 
@@ -382,7 +380,7 @@ Dex jumped.
 
 His character landed on the platform.
 
-The Founder Brainrot drifted slightly upward, almost like it was curious.
+The *Fondarino Originello* drifted slightly upward, almost like it was curious.
 
 Dex jumped again.
 
@@ -408,11 +406,11 @@ Dex blinked.
 
 The jump repeated three times.
 
-Exactly the way Echo Brainrot worked.
+Exactly the way *Eccorino Ripetello* worked.
 
-But Dex wasn’t holding Echo Brainrot.
+But Dex wasn’t holding *Eccorino Ripetello*.
 
-He was holding the Founder Brainrot.
+He was holding the *Fondarino Originello*.
 
 Dex laughed.
 
@@ -482,11 +480,11 @@ Sammy nodded slowly.
 
 “But it shouldn’t be able to.”
 
-Dex grabbed a nearby Speed Brainrot.
+Dex grabbed a nearby *Velocino Fulminino*.
 
 Instantly his character blasted across the platform.
 
-The Founder Brainrot pulsed brighter.
+The *Fondarino Originello* pulsed brighter.
 
 Mira tapped the graph.
 
@@ -507,11 +505,11 @@ Dex didn’t run randomly.
 
 He moved deliberately.
 
-Speed first.
+*Velocino Fulminino* first.
 
-Then Lag.
+Then *Ritardello Staccato*.
 
-Then Echo.
+Then *Eccorino Ripetello*.
 
 Each power stacked on top of the others.
 
@@ -685,7 +683,7 @@ Sammy took a breath.
 
 ![illustration](illustrations/Gemini_Generated_Image_hbajmshbajmshbaj-2.jpg)
 
-# Chapter 3 — The Founder Brainrot
+# Chapter 3 — The Founder brainrot
 
 The hidden server was quiet.
 
@@ -697,7 +695,7 @@ The sky above the gray platforms flickered faintly, like a video frame skipping.
 
 Dex stood at the center platform.
 
-The **Founder Brainrot** hovered above his character like a floating silver crown.
+The *Fondarino Originello* hovered above his character like a floating silver crown.
 
 Its silver shapes shifted slowly, forming new geometric patterns every few seconds.
 
@@ -745,13 +743,13 @@ Twice.
 
 Three times.
 
-Echo Brainrot behavior.
+*Eccorino Ripetello*, the “echo” brainrot.
 
 Then Dex ran forward.
 
 His character blasted across the platform like a rocket.
 
-Speed Brainrot.
+*Velocino Fulminino*, the “speed” brainrot.
 
 Dex laughed.
 
@@ -759,7 +757,7 @@ Dex laughed.
 
 Sammy stared.
 
-“The Founder Brainrot is copying powers.”
+“The *Fondarino Originello* is copying powers.”
 
 Mira shook her head.
 
@@ -769,17 +767,17 @@ Mira shook her head.
 
 Sammy frowned.
 
-“It’s not just another brainrot,” he said slowly. “It’s the prototype object that copies the rules the other brainrots use.
+“It’s not just another brainrot,” he said slowly. “It’s the prototype object that copies the rules used by the other brainrots.
 
-That means every new brainrot Dex collects becomes part of the Founder Brainrot’s system.”
+That means every new brainrot Dex collects becomes part of the *Fondarino Originello* system.”
 
 Dex grabbed another brainrot.
 
 A glowing **golden sphere with orbiting rings** spun into his hands.
 
-Golden Brainrot.
+*Doratino Amplifino*, the “golden” brainrot.
 
-Immediately the Founder Brainrot pulsed brighter.
+Immediately the *Fondarino Originello* pulsed brighter.
 
 Dex grinned.
 
@@ -805,7 +803,7 @@ Sammy frowned.
 
 Mira leaned closer to the graph.
 
-“Every time Dex collects another brainrot, the Founder Brainrot absorbs it.”
+“Every time Dex collects another brainrot, the *Fondarino Originello* absorbs it.”
 
 Sammy nodded slowly.
 
@@ -835,11 +833,11 @@ He didn’t run randomly.
 
 He moved with purpose.
 
-Speed first.
+*Velocino Fulminino* first.
 
-Then Lag.
+Then *Ritardello Staccato*.
 
-Then Echo.
+Then *Eccorino Ripetello*.
 
 Each power stacked on top of the others.
 
@@ -921,7 +919,7 @@ Sammy exhaled slowly.
 
 Dex grabbed another brainrot.
 
-The Founder Brainrot flared bright silver.
+The *Fondarino Originello* flared bright silver.
 
 The sky cracked like a glitching screen.
 
@@ -977,7 +975,7 @@ Sammy swallowed.
 
 Dex stood in the center of the platform glowing with combined powers.
 
-The Founder Brainrot spun slowly above his head.
+The *Fondarino Originello* spun slowly above his head.
 
 He looked around the glitching world.
 
@@ -1057,13 +1055,13 @@ The line of code glowed softly on the screen.
 
 The rule that had started everything still glowed on the screen.
 
-And now that same rule was tearing the system apart.
+Now that same rule was tearing the system apart.
 
 Behind Sammy, the sky of the hidden server flickered violently.
 
 Dex stood at the center platform, glowing with stacked brainrot powers.
 
-The **Founder Brainrot** spun above his character like a brilliant silver crown.
+The *Fondarino Originello* spun above his character like a brilliant silver crown.
 
 “Don’t touch that rule,” Dex said.
 
@@ -1081,13 +1079,13 @@ Dex shrugged.
 
 Dex jumped across the platform.
 
-Speed.
+*Velocino Fulminino*.
 
-Echo.
+*Eccorino Ripetello*.
 
-Lag.
+*Ritardello Staccato*.
 
-Golden.
+*Doratino Amplifino*.
 
 The combined powers made his character move like a storm.
 
@@ -1131,7 +1129,7 @@ Dex wasn’t cheating.
 
 He had simply discovered the **strongest strategy the rules allowed**.
 
-Sammy stared at the glowing Founder Brainrot.
+Sammy stared at the glowing *Fondarino Originello*.
 
 “That’s game theory,” Mira said.
 
@@ -1269,7 +1267,7 @@ For a moment nothing happened.
 
 Dex froze.
 
-The Founder Brainrot dimmed slightly.
+The *Fondarino Originello* dimmed slightly.
 
 The sky stopped flickering.
 
@@ -1285,8 +1283,7 @@ Steadily.
 
 The feedback loop was weakening.
 
-“Sharing spreads attention instead of concentrating it,” Mira said.
-“That breaks the amplification.”
+“Sharing spreads attention across players instead of concentrating it,” Mira said. “That breaks the amplification.”
 
 ---
 
@@ -1362,7 +1359,7 @@ Sammy’s inventory blinked.
 
 A new item appeared.
 
-**Observer Brainrot**
+*Osservino Sistemino*, the “observer” brainrot.
 
 Mira leaned closer.
 

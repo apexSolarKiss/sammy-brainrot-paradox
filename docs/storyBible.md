@@ -7,11 +7,11 @@ This document defines the canonical rules of the story world so that future edit
 
 # Core Premise
 
-A young game designer named Sammy creates a Roblox-style game about collecting “brainrots,” digital artifacts that grant special powers.
+A young game designer named Sammy creates a Roblox-style game about collecting “brainrots,” collectible digital artifacts that grant players special powers.
 
-A simple rule inside the game creates a feedback loop that causes brainrot power to increase when players compete for it.
+A simple rule inside the game creates a feedback loop that increases brainrot power when players compete for it.
 
-When a rare object called the **Founder Brainrot** is discovered, the system begins amplifying itself in unstable ways.
+When a rare object called *Fondarino Originello* (the “founder” brainrot) is discovered, the system begins amplifying itself in unstable ways.
 
 The story explores how rules shape behavior and how systems can spiral beyond their creator’s expectations.
 
@@ -65,7 +65,7 @@ Features:
 - minimal structures
 - quiet atmosphere
 
-This is where Dex discovers the Founder Brainrot.
+This is where Dex discovers *Fondarino Originello* (the “founder” brainrot).
 
 ---
 
@@ -126,90 +126,102 @@ Dex does not cheat — he simply plays the system perfectly.
 
 # Brainrot Objects
 
-Brainrots are glowing digital artifacts that grant abilities.
+Brainrots are collectible digital artifacts that grant players special powers.
 
-They float slightly above the ground and emit light.
+They float slightly above the ground and emit glow effects.
+
+Each brainrot has two names:
+
+- a canonical in-world name (Italian “brainrottino” name)
+- a descriptive meaning name used for clarity
+
+Example:  
+*Velocino Fulminino* — the “speed” brainrot
+
+In narration, the Italian name is primary.  
+The meaning name appears only when first introduced.
 
 ---
 
-## Speed Brainrot
+## *Velocino Fulminino* — the “speed” brainrot
 
-Appearance:
+**Appearance**
 
-Blue orb with lightning streaks.
+Blue orb with lightning streaks spinning around it.
 
-Effect:
+**Effect**
 
 Increases player movement speed dramatically.
 
 ---
 
-## Echo Brainrot
+## *Eccorino Ripetello* — the “echo” brainrot
 
-Appearance:
+**Appearance**
 
 Purple orb with repeating rings.
 
-Effect:
+**Effect**
 
 Repeats recent player actions.
 
-Example:
+**Example**
+
 Jump once → jump echoes again.
 
 ---
 
-## Lag Brainrot
+## *Ritardello Staccato* — the “lag” brainrot
 
-Appearance:
+**Appearance**
 
 Green cube with flickering edges.
 
-Effect:
+**Effect**
 
-Causes nearby players to freeze briefly.
+Causes nearby players to stutter or freeze briefly.
 
 ---
 
-## Golden Brainrot
+## *Doratino Amplifino* — the “golden” brainrot
 
-Appearance:
+**Appearance**
 
 Gold sphere with orbiting rings.
 
-Effect:
+**Effect**
 
 Amplifies other brainrot abilities.
 
 ---
 
-## Founder Brainrot
+## *Fondarino Originello* — the “founder” brainrot
 
-Appearance:
+**Appearance**
 
 Floating silver crown made of shifting geometric shapes.
 
-Effect:
+**Effect**
 
 Copies and combines other brainrot abilities.
 
-Mechanic:
+**Mechanic**
 
-Each new brainrot Dex collects becomes integrated into the Founder Brainrot system.
+Each new brainrot Dex collects becomes integrated into the *Fondarino Originello* system.
 
 ---
 
-## Observer Brainrot
+## *Osservino Sistemino* — the “observer” brainrot
 
-Appearance:
+**Appearance**
 
 Calm white orb with soft glowing patterns.
 
-Effect:
+**Effect**
 
-Represents understanding of systems.
+Represents the ability to understand and predict complex systems.
 
-Description:
+**Description**
 
 Understands systems. Predicts patterns. Rewards players who learn how rules shape the world.
 
@@ -229,7 +241,7 @@ More competition → stronger brainrots → more competition.
 
 # System Crisis
 
-Dex discovers the Founder Brainrot and begins collecting powers.
+Dex discovers *Fondarino Originello* (the “founder” brainrot) and begins collecting powers.
 
 The amplification loop grows unstable.
 
