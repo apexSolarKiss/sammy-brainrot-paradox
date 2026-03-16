@@ -1,4 +1,5 @@
-© 2026 Andrew S Klug // ASK >> All rights reserved
+<!--© 2026 Andrew S Klug // ASK
+All rights reserved-->
 ![title page illustration](visual-references/1visualStyleGuideGemini_Generated_Image_fmvf4gfmvf4gfmvf-2.jpg)
 
 # Sammy and the Brainrot Paradox
