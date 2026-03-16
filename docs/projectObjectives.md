@@ -1,6 +1,3 @@
-Below is the **`projectObjectives.md` file as pure Markdown**, ready to copy directly into your repo.
-
-```markdown
 # Project Objectives  
 ## Sammy and the Brainrot Paradox
 
@@ -223,4 +220,3 @@ The goal is to make children ask questions such as:
 - What would happen if the rule changed?  
 
 If the story inspires curiosity about how systems work, it has succeeded.
-```
