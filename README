@@ -1,5 +1,169 @@
+# Sammy and the Brainrot Paradox
+
+An experiment in AI-assisted storytelling, systems thinking, and generative illustration workflows.
+
+This project explores how a structured combination of:
+
+- narrative design
+- prompt engineering
+- visual references
+- system documentation
+
+can be used to generate a cohesive children’s book.
+
+---
+
+## Overview
+
+*Sammy and the Brainrot Paradox* is a story about a game designer who creates a simple rule:
+
+> brainrots grow stronger when players compete for them
+
+From that rule, a system emerges.
+
+Players optimize.  
+Strategies evolve.  
+The system becomes unstable.
+
+The story follows how rules shape behavior—and how changing a rule can reshape an entire system.
+
+---
+
+## Project Intent
+
+This repository is not just a story.
+
+It is an experiment in:
+
+- using AI to generate narrative content
+- structuring creative work with system-level documentation
+- maintaining consistency across text and visuals
+- designing reproducible creative workflows
+
+The goal is to show how storytelling, systems thinking, and generative tools can work together.
+
+---
+
+## Educational Philosophy
+
+The story is designed for children (ages 8–10), but introduces deeper concepts:
+
+- feedback loops  
+- incentives  
+- game theory  
+- emergence  
+
+These ideas are embedded in the narrative rather than explicitly taught.
+
+Readers encounter them through events, dialogue, and consequences.
+
+---
+
+## Repository Structure
+
+```text
+sammy-brainrot-paradox
+│
+├── mainStory.md              # canonical narrative
+│
+├── docs/
+│   ├── projectObjectives.md
+│   ├── storyBible.md
+│   └── illustrationBible.md
+│
+├── illustrations/            # final generated images
+├── visual-references/        # style and reference inputs
+```
+
+---
+
+## How to Use This Repo
+
+You can approach this project in multiple ways:
+
+### Read the story
+
+Start with:
+
+```
+mainStory.md
+```
+
+---
+
+### Study the system
+
+Explore:
+
+- `docs/projectObjectives.md` — design intent  
+- `docs/storyBible.md` — world rules and canon  
+- `docs/illustrationBible.md` — visual consistency system  
+
+---
+
+### Recreate or extend the workflow
+
+Use this repo as a template for:
+
+- AI-assisted storytelling  
+- generative illustration pipelines  
+- structured creative projects  
+
+---
+
 ## License
 
+This project is licensed under:
+
+**Creative Commons Attribution 4.0 (CC BY 4.0)**
+
+You are free to:
+
+- share  
+- remix  
+- adapt  
+- build upon  
+
+for any purpose, including commercial use.
+
+**Attribution required.**
+
+https://creativecommons.org/licenses/by/4.0/
+
+---
+
+## Why This Exists
+
+Most AI-generated content is:
+
+- unstructured  
+- inconsistent  
+- difficult to extend  
+
+This project explores a different approach:
+
+> Treat creative work like a system.
+
+Define rules.  
+Maintain consistency.  
+Iterate deliberately.
+
+---
+
+## Future Directions
+
+Potential extensions of this project:
+
+- additional side stories in the same world  
+- interactive game prototype  
+- expanded illustration set  
+- classroom or educational materials  
+
+---
+
+## Credits
+
 (c) 2026 Andrew S Klug // ASK
-Creative Commons BY-NC 4.0
-See the LICENSE file for details.
+
+Developed using AI-assisted workflows, structured documentation, and iterative design.
+
