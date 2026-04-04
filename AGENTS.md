@@ -113,6 +113,9 @@ Rules:
 - before any commit or push, show `git status --short`
 - before any commit or push, stop and wait for user approval
 - do not commit, push, open a compare page, or open a PR until approval is given
+- for branch + PR tasks, prepare the exact commit message, exact PR title, and exact PR description
+- if a PR cannot be opened directly, still return the exact commit message used, exact PR title, exact PR description, and compare URL for manual submission
+- do not leave PR packaging for the user to reconstruct manually
 - do not push meaningful changes directly to `main` unless explicitly instructed
 - do not merge meaningful changes without opening a PR first
 - PR descriptions should capture:
