@@ -703,28 +703,12 @@ Sammy and Mira appeared on the opposite platform.
 
 Dex noticed them immediately.
 
-“Well well,” he said.
-
-“The founder finally shows up.”
-
-Sammy stepped forward.
-
-“Dex,” he said, “you need to drop that brainrot.”
-
-Dex tilted his character’s head.
-
-“Why?”
-
-Sammy pointed toward the sky.
-
-“Because the system is starting to break.”
-
-Dex glanced upward.
-
 The sky flickered again.
 
-Then he shrugged.
+Sammy pointed upward.
+“Dex,” he said, “you need to drop that brainrot.”
 
+Dex glanced at the glitching sky, then shrugged.
 “Looks fine to me.”
 
 Then he jumped.
