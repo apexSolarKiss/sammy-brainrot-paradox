@@ -109,6 +109,12 @@ Rules:
 - repo structure changes = use a branch + PR
 - prompt / workflow asset changes = use a branch + PR
 - small copy edits to non-canonical docs = PR optional
+- when path ambiguity exists, verify the current target file location before editing
+- for narrative edits, prefer a read-only locate-and-preview step before any local write
+- preview should include the exact file path to be edited, the current passage exactly as it appears, and the proposed replacement exactly as it will appear
+- for narrative edits, stop for approval before applying the local write
+- after an approved local write, show the exact scoped diff and `git status --short`
+- stop again for approval before commit, push, opening a compare page, or opening a PR
 - before any commit or push, show the exact diff for the scoped files only
 - before any commit or push, show `git status --short`
 - before any commit or push, stop and wait for user approval
