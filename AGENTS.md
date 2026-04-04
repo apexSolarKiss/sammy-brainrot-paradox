@@ -109,6 +109,10 @@ Rules:
 - repo structure changes = use a branch + PR
 - prompt / workflow asset changes = use a branch + PR
 - small copy edits to non-canonical docs = PR optional
+- before any commit or push, show the exact diff for the scoped files only
+- before any commit or push, show `git status --short`
+- before any commit or push, stop and wait for user approval
+- do not commit, push, open a compare page, or open a PR until approval is given
 - do not push meaningful changes directly to `main` unless explicitly instructed
 - do not merge meaningful changes without opening a PR first
 - PR descriptions should capture:
