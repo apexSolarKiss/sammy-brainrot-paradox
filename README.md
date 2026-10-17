@@ -66,12 +66,12 @@ Readers encounter them through events, dialogue, and consequences.
 ```text
 sammy-brainrot-paradox
 │
-├── mainStory.md              # canonical narrative
+├── index.md                  # canonical narrative
 │
 ├── docs/
 │   ├── projectObjectives.md
 │   ├── storyBible.md
-│   └── illustrationBible.md
+│   └── visualStyleGuide.md
 │
 ├── illustrations/            # final generated images
 ├── visual-references/        # style and reference inputs
@@ -88,7 +88,7 @@ You can approach this project in multiple ways:
 Start with:
 
 ```
-mainStory.md
+index.md
 ```
 
 ---
@@ -99,7 +99,7 @@ Explore:
 
 - `docs/projectObjectives.md` — design intent  
 - `docs/storyBible.md` — world rules and canon  
-- `docs/illustrationBible.md` — visual consistency system  
+- `docs/visualStyleGuide.md` — visual consistency system  
 
 ---
 
