@@ -115,22 +115,7 @@ Use this repo as a template for:
 
 ## License
 
-This project is licensed under:
-
-**Creative Commons Attribution 4.0 (CC BY 4.0)**
-
-You are free to:
-
-- share  
-- remix  
-- adapt  
-- build upon  
-
-for any purpose, including commercial use.
-
-**Attribution required.**
-
-https://creativecommons.org/licenses/by/4.0/
+Licensed under the Apache License 2.0 // see [`LICENSE`](LICENSE)
 
 ---
 
