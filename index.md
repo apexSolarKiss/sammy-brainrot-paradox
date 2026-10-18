@@ -1,5 +1,5 @@
 <!--© 2026 Andrew S Klug // ASK
-Creative Commons BY-NC 4.0-->
+SPDX-License-Identifier: Apache-2.0-->
 ![title page illustration](visual-references/1visualStyleGuideGemini_Generated_Image_fmvf4gfmvf4gfmvf-2.jpg)
 
 # Sammy and the Brainrot Paradox
